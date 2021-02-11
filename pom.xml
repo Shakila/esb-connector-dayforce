@@ -22,7 +22,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.wso2.carbon.esb.connector</groupId>
     <artifactId>esb-ceridian-dayforce-connector</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
     <name>WSO2 Carbon - Connector For CeridianDayforce</name>
     <url>http://wso2.org</url>
